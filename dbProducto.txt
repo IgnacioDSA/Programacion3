@@ -1,2 +1,0 @@
-Código: P0 * Nombre:Caramelo * Marca: t * Modelo rr * Cantidad: 3 * Unidad 3 * Stock 3 Precio: 4 Activo: a FechaVenc: 4545 * FechaFabr 4545 
-Código: P1 * Nombre:Masitas * Marca: Nice * Modelo Simple * Cantidad: 222 * Unidad 33 * Stock 545 Precio: 34343 Activo: a FechaVenc: 23/10/1998 * FechaFabr 22/10/1998 Código: P2 * Nombre:324 * Marca: 23 * Modelo 34 * Cantidad: 43 * Unidad 34 * Stock 0 Precio: 23 Activo: 12 FechaVenc: 54 * FechaFabr 23 
