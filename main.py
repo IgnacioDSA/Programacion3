@@ -20,7 +20,7 @@ print("\n")
 print(test2)
 
 test3 = ['P0', 'P2']
-test2 = test1.obtenerProductos(test3)
+test2 = test1.obtenerProductos_ID(test3)
 print(test2)
 
 
